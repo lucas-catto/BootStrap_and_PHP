@@ -1,4 +1,10 @@
 
+/* BootStrap Logo */
+.navbar-brand{
+    font-size: 26px;
+}
+/* ============== */
+
 .box{
     position: relative;
     top:      30px;
@@ -47,4 +53,42 @@ section.banner > .container{
     font-size:  19px;
     padding:    10px 18px;
     background: #26A69A;
+}
+
+/* ============================== */
+/* Criando site com BootStrap 2/5 */
+
+section.cadastro-lead{
+    background: #26A69A;
+    padding:    20px 0;
+}
+
+section.cadastro-lead h2{
+    color:     white;
+    font-size: 24px;
+}
+
+section.cadastro-lead form{
+    position: relative;
+    top:      10px;
+}
+
+section.cadastro-lead input[type="text"]{
+    width:   85%;
+    padding: 0px 0px 0px 8px;
+    height:  40px;
+    border:  1px solid #ccc;
+}
+
+section.cadastro-lead input[type="submit"]{
+    width:   15%;
+    height:  40px;
+    border:  1px solid #ccc;
+}
+
+@media screen and (max-width: 1024px){
+    section.cadastro-lead form{
+        position: relative;
+        top:      0px;
+    }
 }
