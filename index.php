@@ -70,8 +70,48 @@
                     </div>
                 </div>
             </section>
+            <!-- ==================================================================================================== -->
+            <!-- Criando site com BootStrap 3/5 -->
+            <section class="depoimento text-center">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h2>Depoimento</h2>
+                            <blockquote>
+                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellat consequuntur dolorum, qui veniam impedit minus inventore doloremque necessitatibus, harum accusantium consequatur maiores animi nostrum corporis eum vel et deleniti error.</p>
+                            </blockquote>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="diferenciais text-center">
+                <h2>Conheça nossa empresa.</h2>
+                <div class="container diferenciais-container">
+                    <div class="row">
+                        <!-- ------------------------------ -->
+                        <div class="col-md-4">
+                            <h3><span class="glyphicon glyphicon-glass"></span></h3>
+                            <h2>Diferencial #1</h2>
+                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ex velit ipsa assumenda dicta? Qui dolorum eaque voluptates non saepe optio debitis beatae quisquam voluptate iste tenetur, fugit soluta nostrum sunt!</p>
+                        </div>
+                        <!-- ------------------------------ -->
+                        <div class="col-md-4">
+                            <h3><span class="glyphicon glyphicon-star"></span></h3>
+                            <h2>Diferencial #2</h2>
+                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ex velit ipsa assumenda dicta? Qui dolorum eaque voluptates non saepe optio debitis beatae quisquam voluptate iste tenetur, fugit soluta nostrum sunt!</p>
+                        </div>
+                        <!-- ------------------------------ -->
+                        <div class="col-md-4">
+                            <h3><span class="glyphicon glyphicon-heart"></span></h3>
+                            <h2>Diferencial #3</h2>
+                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ex velit ipsa assumenda dicta? Qui dolorum eaque voluptates non saepe optio debitis beatae quisquam voluptate iste tenetur, fugit soluta nostrum sunt!</p>
+                        </div>
+                        <!-- ------------------------------ -->
+                    </div>
+                </div>
+            </section>
+            <!-- ==================================================================================================== -->
         </div> <!-- box -->
-        <!-- ==================================================================================================== -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
         <script src="./js/bootstrap.min.js"></script>
     </body>
