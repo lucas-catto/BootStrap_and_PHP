@@ -111,6 +111,115 @@
                 </div>
             </section>
             <!-- ==================================================================================================== -->
+            <!-- Criando site com BootStrap 4/5 -->
+            <section class="equipe">
+                <h2>Equipe</h2>
+                <div class="container equipe-container">
+                    <div class="row">
+                        <!-- ---------------------------------------------------------------------- -->
+                        <div class="col-md-6">
+                            <div class="equipe-single">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="user-picture">
+                                            <div class="user-picture-child"></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <h3>Lucas</h3>
+                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci assumenda voluptate cumque libero delectus. Recusandae neque illo, ipsa tempore aperiam aliquid esse vel ducimus expedita incidunt exercitationem sequi inventore alias.</p>
+                                    </div> <!-- col-md-10 -->
+                                </div> <!-- row -->
+                            </div> <!-- equipe-single -->
+                        </div> <!-- col-md-6 -->
+                        <!-- ---------------------------------------------------------------------- -->
+                        <div class="col-md-6">
+                            <div class="equipe-single">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="user-picture">
+                                            <div class="user-picture-child"></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <h3>Lucas</h3>
+                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci assumenda voluptate cumque libero delectus. Recusandae neque illo, ipsa tempore aperiam aliquid esse vel ducimus expedita incidunt exercitationem sequi inventore alias.</p>
+                                    </div> <!-- col-md-10 -->
+                                </div> <!-- row -->
+                            </div> <!-- equipe-single -->
+                        </div> <!-- col-md-6 -->
+                        <!-- ---------------------------------------------------------------------- -->
+                        <div class="col-md-6">
+                            <div class="equipe-single">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="user-picture">
+                                            <div class="user-picture-child"></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <h3>Lucas</h3>
+                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci assumenda voluptate cumque libero delectus. Recusandae neque illo, ipsa tempore aperiam aliquid esse vel ducimus expedita incidunt exercitationem sequi inventore alias.</p>
+                                    </div> <!-- col-md-10 -->
+                                </div> <!-- row -->
+                            </div> <!-- equipe-single -->
+                        </div> <!-- col-md-6 -->
+                        <!-- ---------------------------------------------------------------------- -->
+                        <div class="col-md-6">
+                            <div class="equipe-single">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="user-picture">
+                                            <div class="user-picture-child"></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <h3>Lucas</h3>
+                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci assumenda voluptate cumque libero delectus. Recusandae neque illo, ipsa tempore aperiam aliquid esse vel ducimus expedita incidunt exercitationem sequi inventore alias.</p>
+                                    </div> <!-- col-md-10 -->
+                                </div> <!-- row -->
+                            </div> <!-- equipe-single -->
+                        </div> <!-- col-md-6 -->
+                        <!-- ---------------------------------------------------------------------- -->
+                        <div class="col-md-6">
+                            <div class="equipe-single">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="user-picture">
+                                            <div class="user-picture-child"></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <h3>Lucas</h3>
+                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci assumenda voluptate cumque libero delectus. Recusandae neque illo, ipsa tempore aperiam aliquid esse vel ducimus expedita incidunt exercitationem sequi inventore alias.</p>
+                                    </div> <!-- col-md-10 -->
+                                </div> <!-- row -->
+                            </div> <!-- equipe-single -->
+                        </div> <!-- col-md-6 -->
+                        <!-- ---------------------------------------------------------------------- -->
+                        <div class="col-md-6">
+                            <div class="equipe-single">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="user-picture">
+                                            <div class="user-picture-child"></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <h3>Lucas</h3>
+                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci assumenda voluptate cumque libero delectus. Recusandae neque illo, ipsa tempore aperiam aliquid esse vel ducimus expedita incidunt exercitationem sequi inventore alias.</p>
+                                    </div> <!-- col-md-10 -->
+                                </div> <!-- row -->
+                            </div> <!-- equipe-single -->
+                        </div> <!-- col-md-6 -->
+                        <!-- ---------------------------------------------------------------------- -->
+
+                    </div>
+                </div> <!-- container equipe-container -->
+            </section>
+
+            <!-- ==================================================================================================== -->
+
         </div> <!-- box -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
         <script src="./js/bootstrap.min.js"></script>
