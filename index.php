@@ -213,11 +213,66 @@
                             </div> <!-- equipe-single -->
                         </div> <!-- col-md-6 -->
                         <!-- ---------------------------------------------------------------------- -->
-
                     </div>
                 </div> <!-- container equipe-container -->
             </section>
-
+            <!-- ==================================================================================================== -->
+            <!-- Criando site com BootStrap 5/5 -->
+            <section class="final-site">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <!-- ------------------- -->
+                            <h2>Talk with us</h2>
+                            <!-- ------------------- -->
+                            <form action="" method="post">
+                                <!-- ------------------- -->
+                                <div class="form-group">
+                                    <label for="name">Name</label>
+                                    <input type="text" name="name" class="form-control" id="name">
+                                </div>
+                                <!-- ------------------- -->
+                                <div class="form-group">
+                                    <label for="email">Email</label>
+                                    <input type="text" name="email" class="form-control" id="email">
+                                </div>
+                                <!-- ------------------- -->
+                                <div class="form-group">
+                                    <label for="message">Message</label>
+                                    <textarea class="form-control"></textarea>
+                                </div>
+                                <!-- ------------------- -->
+                                <button type="submit" class="btn btn-default">Submit</button>
+                                <!-- ------------------- -->
+                            </form>
+                        </div>
+                        <!-- ---------------------------------------------------------------------- -->
+                        <div class="col-md-6">
+                            <h2>Our plans</h2>
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th>Day</th>
+                                        <th>Week</th>
+                                        <th>Month</th>
+                                    </tr>
+                                </thead>
+                                <thead>
+                                    <tr>
+                                        <th>US$19.00</th>
+                                        <th>US$32.00</th>
+                                        <th>US$56.00</th>
+                                    </tr>
+                                </thead>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- ---------------------------------------------------------------------- -->
+            <footer>
+                <p class="text-center">Project from Danki Code by <a href="github.com/lucascsilva0">Lucas</a></p>
+            </footer>
             <!-- ==================================================================================================== -->
 
         </div> <!-- box -->
