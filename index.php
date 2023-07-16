@@ -271,7 +271,7 @@
             </section>
             <!-- ---------------------------------------------------------------------- -->
             <footer>
-                <p class="text-center">Project from Danki Code by <a href="github.com/lucascsilva0">Lucas</a></p>
+                <p class="text-center">Project from Danki Code by <a href="https://www.github.com/lucascsilva0">Lucas</a></p>
             </footer>
             <!-- ==================================================================================================== -->
 
